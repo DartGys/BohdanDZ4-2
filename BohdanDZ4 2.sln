@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BohdanDZ4 2", "BohdanDZ4 2.csproj", "{10C3DBB8-4167-4BD6-9ED6-41258668BAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BohdanDZ4 2 interface", "..\BohdanDZ4 2 interface\BohdanDZ4 2 interface.csproj", "{0B503B6F-8B58-4387-AD1A-F924C3108DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C3DBB8-4167-4BD6-9ED6-41258668BAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C3DBB8-4167-4BD6-9ED6-41258668BAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C3DBB8-4167-4BD6-9ED6-41258668BAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C3DBB8-4167-4BD6-9ED6-41258668BAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B503B6F-8B58-4387-AD1A-F924C3108DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B503B6F-8B58-4387-AD1A-F924C3108DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B503B6F-8B58-4387-AD1A-F924C3108DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B503B6F-8B58-4387-AD1A-F924C3108DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02830C29-4523-48E3-8090-03DE9477ACE1}
+	EndGlobalSection
+EndGlobal
